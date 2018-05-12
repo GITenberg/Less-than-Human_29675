@@ -1,0 +1,33 @@
+_repo: Less-than-Human_29675
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Frikki, Aiko
+    gutenberg_agent_id: '34127'
+    url: http://www.gutenberg.org/2009/agents/34127
+covers:
+- cover_type: archival
+  image_path: 29675-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Blade, Zoë
+    alias: Blade, Zoe
+    birthdate: 1981
+    gutenberg_agent_id: '34072'
+    url: http://www.gutenberg.org/2009/agents/34072
+description: ''
+gutenberg_issued: '2009-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29675'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Assassins -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+title: Less than Human
+url: http://www.gutenberg.org/ebooks/29675
